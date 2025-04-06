@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SUPER DEVIN Cleaning Services</title>
+    <!-- Google Fonts for a modern look -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,600&display=swap" />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="navbar">
+        <div class="logo">SUPER DEVIN</div>
+        <ul class="nav-links">
+          <li><a href="#services">Services</a></li>
+          <li><a href="#about">About Us</a></li>
+          <li><a href="admin-login.html">Admin</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section id="hero">
+        <div class="hero-content">
+          <h1>Your Trusted Cleaning Partner</h1>
+          <p>We make your space shine with professionalism and care.</p>
+          <a href="#services" class="btn">Learn More</a>
+        </div>
+      </section>
+
+      <section id="services">
+        <div class="section-header">
+          <h2>Our Services</h2>
+          <p>Customized cleaning solutions for every need</p>
+        </div>
+        <div class="service-container">
+          <article class="service">
+            <h3>Residential Cleaning</h3>
+            <p>Keep your home spotless with our expert services.</p>
+          </article>
+          <article class="service">
+            <h3>Commercial Cleaning</h3>
+            <p>Efficient and reliable cleaning for your business.</p>
+          </article>
+          <article class="service">
+            <h3>Special Services</h3>
+            <p>Tailored cleaning solutions for unique requirements.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="about">
+        <div class="section-header">
+          <h2>About Us</h2>
+        </div>
+        <div class="about-content">
+          <p>
+            At SUPER DEVIN, we deliver professional cleaning services with an eye for detail and an unwavering commitment to excellence. Our team is dedicated to providing the highest level of service, ensuring your space always looks its best.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 SUPER DEVIN. All rights reserved.</p>
+    </footer>
+
+    <script src="js/scripts.js"></script>
+  </body>
+</html>
